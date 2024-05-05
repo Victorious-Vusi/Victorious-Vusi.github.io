@@ -160,7 +160,7 @@ p{
   border-radius: 5px; /* Rounded corners for cards */
   padding: 20px; /* Padding for content inside cards */
   margin: 10px; /* Margin between cards */
-  max-width: 300px; /* Optional: Set a maximum width for each card */
+  max-width: 400px; /* Optional: Set a maximum width for each card */
   transition: all 0.3s ease-in-out; /* Add transition for hover effects */
   overflow: hidden; /* Clip content that overflows the card */
 }
